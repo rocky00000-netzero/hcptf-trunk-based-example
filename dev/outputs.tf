@@ -9,3 +9,6 @@ output "pet_example_two_id" {
 output "pet_example_three_id" {
   value = random_pet.example_three.id
 }
+output "pet_example_four_id" {
+  value = random_pet.example_four.id
+}
